@@ -48,6 +48,10 @@
 		-webkit-text-size-adjust: none;
 	}
 
+.projectDescription {
+	font-size: 0.9em;
+	line-height:120%;
+}
 /* Box Model */
 
 	*, *:before, *:after {
