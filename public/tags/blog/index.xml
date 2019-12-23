@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Nigesh Shakya</title>
-    <link>https://nshakya.me/tags/blog/</link>
+    <link>https://neagaze.github.io/tags/blog/</link>
     <description>Recent content in Blog on Nigesh Shakya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Dec 2019 12:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://nshakya.me/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://neagaze.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Title</title>
-      <link>https://nshakya.me/2019/12/22/title/</link>
+      <link>https://neagaze.github.io/2019/12/22/title/</link>
       <pubDate>Sun, 22 Dec 2019 12:00:00 +0000</pubDate>
       
-      <guid>https://nshakya.me/2019/12/22/title/</guid>
+      <guid>https://neagaze.github.io/2019/12/22/title/</guid>
       <description>Title Description Description goes here 。</description>
     </item>
     

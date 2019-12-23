@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nigesh Shakya</title>
-    <link>https://nshakya.me/</link>
+    <link>https://neagaze.github.io/</link>
     <description>Recent content on Nigesh Shakya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Dec 2019 12:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://nshakya.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://neagaze.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Title</title>
-      <link>https://nshakya.me/2019/12/22/title/</link>
+      <link>https://neagaze.github.io/2019/12/22/title/</link>
       <pubDate>Sun, 22 Dec 2019 12:00:00 +0000</pubDate>
       
-      <guid>https://nshakya.me/2019/12/22/title/</guid>
+      <guid>https://neagaze.github.io/2019/12/22/title/</guid>
       <description>Title Description Description goes here 。</description>
     </item>
     
     <item>
       <title>Welcome to Nigesh&#39;s world</title>
-      <link>https://nshakya.me/2019/12/22/hello-world/</link>
+      <link>https://neagaze.github.io/2019/12/22/hello-world/</link>
       <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://nshakya.me/2019/12/22/hello-world/</guid>
+      <guid>https://neagaze.github.io/2019/12/22/hello-world/</guid>
       <description> “Yeah It&#39;s on. ”
  Hello World! </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://nshakya.me/search/placeholder/</link>
+      <link>https://neagaze.github.io/search/placeholder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nshakya.me/search/placeholder/</guid>
+      <guid>https://neagaze.github.io/search/placeholder/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://nshakya.me/top/about/</link>
+      <link>https://neagaze.github.io/top/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nshakya.me/top/about/</guid>
+      <guid>https://neagaze.github.io/top/about/</guid>
       <description>Nigesh Shakya is a software engineer interested in web development. He is passionate about building tools to solve problems.
 Throughout his career, he has built android applications, web applications. While he knows several programming languages and tools, he is mostly passionate about object-oriented programming and paradigm.
 Nigesh holds a Masters in Computer Science from The University of Texas at Arlington in 2017.
@@ -53,10 +53,10 @@ Currently, Nigesh is working as as software engineer at Cerner Corporation - a H
     
     <item>
       <title></title>
-      <link>https://nshakya.me/top/resume/</link>
+      <link>https://neagaze.github.io/top/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nshakya.me/top/resume/</guid>
+      <guid>https://neagaze.github.io/top/resume/</guid>
       <description>Overview Languages  Java Python NodeJS Javascript C# Ruby  Backend  Spring Boot Framework ReactJS / React Native Flask- RabbitMQ- Apache Kafka ElasticSearch AWS (EC2, CloudFormation, Lambda, Lex, S3, ML) Botkit API for Slack Heroku Pivotal Cloud Foundry  Frontend- Android Development Framework (Java)  .NET MVC Framework Unity 3D Noesis GUI  Database  MySQL Neo4j + Cypher SQLite Gemfire  Automation &amp;amp; Tools  Docker Chef Jenkins Git  Experience Cerner 2019 Feb - Present</description>
     </item>
     
