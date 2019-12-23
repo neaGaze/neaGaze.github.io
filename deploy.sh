@@ -19,6 +19,8 @@ if [ $# -eq 1 ]
 fi
 git commit -m "$msg"
 
+echo -e "\033[0;32mComming to git with changes as $msg...\033[0m"
+
 # Push source and build repos.
 git push origin master
 
