@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tops on Nigesh Shakya</title>
-    <link>https://neagaze.github.io/top/</link>
+    <link>https://neagaze.github.io/public/top/</link>
     <description>Recent content in Tops on Nigesh Shakya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://neagaze.github.io/top/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://neagaze.github.io/public/top/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://neagaze.github.io/top/about/</link>
+      <link>https://neagaze.github.io/public/top/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://neagaze.github.io/top/about/</guid>
+      <guid>https://neagaze.github.io/public/top/about/</guid>
       <description>Nigesh Shakya is a software engineer interested in web development. He is passionate about building tools to solve problems.
 Throughout his career, he has built android applications, web applications. While he knows several programming languages and tools, he is mostly passionate about object-oriented programming and paradigm.
 Nigesh holds a Masters in Computer Science from The University of Texas at Arlington in 2017.
@@ -24,10 +24,10 @@ Currently, Nigesh is working as as software engineer at Cerner Corporation - a H
     
     <item>
       <title></title>
-      <link>https://neagaze.github.io/top/resume/</link>
+      <link>https://neagaze.github.io/public/top/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://neagaze.github.io/top/resume/</guid>
+      <guid>https://neagaze.github.io/public/top/resume/</guid>
       <description>Overview Languages  Java Python NodeJS Javascript C# Ruby  Backend  Spring Boot Framework ReactJS / React Native Flask- RabbitMQ- Apache Kafka ElasticSearch AWS (EC2, CloudFormation, Lambda, Lex, S3, ML) Botkit API for Slack Heroku Pivotal Cloud Foundry  Frontend- Android Development Framework (Java)  .NET MVC Framework Unity 3D Noesis GUI  Database  MySQL Neo4j + Cypher SQLite Gemfire  Automation &amp;amp; Tools  Docker Chef Jenkins Git  Experience Cerner 2019 Feb - Present</description>
     </item>
     

@@ -3,71 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://neagaze.github.io/tags/blog/</loc>
+    <loc>https://neagaze.github.io/public/tags/blog/</loc>
     <lastmod>2019-12-22T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://neagaze.github.io/categories/</loc>
+    <loc>https://neagaze.github.io/public/categories/</loc>
     <lastmod>2019-12-22T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://neagaze.github.io/</loc>
+    <loc>https://neagaze.github.io/public/</loc>
     <lastmod>2019-12-22T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://neagaze.github.io/post/</loc>
+    <loc>https://neagaze.github.io/public/post/</loc>
     <lastmod>2019-12-22T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://neagaze.github.io/tags/</loc>
+    <loc>https://neagaze.github.io/public/tags/</loc>
     <lastmod>2019-12-22T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://neagaze.github.io/categories/tech/</loc>
+    <loc>https://neagaze.github.io/public/categories/tech/</loc>
     <lastmod>2019-12-22T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://neagaze.github.io/tags/test/</loc>
+    <loc>https://neagaze.github.io/public/tags/test/</loc>
     <lastmod>2019-12-22T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://neagaze.github.io/2019/12/22/title/</loc>
+    <loc>https://neagaze.github.io/public/2019/12/22/title/</loc>
     <lastmod>2019-12-22T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://neagaze.github.io/2019/12/22/hello-world/</loc>
+    <loc>https://neagaze.github.io/public/2019/12/22/hello-world/</loc>
     <lastmod>2019-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://neagaze.github.io/search/placeholder/</loc>
+    <loc>https://neagaze.github.io/public/search/placeholder/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://neagaze.github.io/top/about/</loc>
+    <loc>https://neagaze.github.io/public/top/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://neagaze.github.io/top/resume/</loc>
+    <loc>https://neagaze.github.io/public/top/resume/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://neagaze.github.io/search/</loc>
+    <loc>https://neagaze.github.io/public/search/</loc>
   </url>
   
   <url>
-    <loc>https://neagaze.github.io/top/</loc>
+    <loc>https://neagaze.github.io/public/top/</loc>
   </url>
   
 </urlset>

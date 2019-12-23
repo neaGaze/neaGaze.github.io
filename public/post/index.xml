@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Nigesh Shakya</title>
-    <link>https://neagaze.github.io/post/</link>
+    <link>https://neagaze.github.io/public/post/</link>
     <description>Recent content in Posts on Nigesh Shakya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Dec 2019 12:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://neagaze.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://neagaze.github.io/public/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Title</title>
-      <link>https://neagaze.github.io/2019/12/22/title/</link>
+      <link>https://neagaze.github.io/public/2019/12/22/title/</link>
       <pubDate>Sun, 22 Dec 2019 12:00:00 +0000</pubDate>
       
-      <guid>https://neagaze.github.io/2019/12/22/title/</guid>
+      <guid>https://neagaze.github.io/public/2019/12/22/title/</guid>
       <description>Title Description Description goes here 。</description>
     </item>
     
     <item>
       <title>Welcome to Nigesh&#39;s world</title>
-      <link>https://neagaze.github.io/2019/12/22/hello-world/</link>
+      <link>https://neagaze.github.io/public/2019/12/22/hello-world/</link>
       <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://neagaze.github.io/2019/12/22/hello-world/</guid>
+      <guid>https://neagaze.github.io/public/2019/12/22/hello-world/</guid>
       <description> “Yeah It&#39;s on. ”
  Hello World! </description>
     </item>
