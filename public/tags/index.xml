@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Nigesh Shakya</title>
+    <link>https://nshakya.me/tags/</link>
+    <description>Recent content in Tags on Nigesh Shakya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Dec 2019 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nshakya.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>https://nshakya.me/tags/blog/</link>
+      <pubDate>Sun, 22 Dec 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://nshakya.me/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://nshakya.me/tags/test/</link>
+      <pubDate>Sun, 22 Dec 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://nshakya.me/tags/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

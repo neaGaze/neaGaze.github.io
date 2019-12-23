@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://nshakya.me/tags/blog/</loc>
+    <lastmod>2019-12-22T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nshakya.me/categories/</loc>
+    <lastmod>2019-12-22T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nshakya.me/</loc>
+    <lastmod>2019-12-22T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nshakya.me/post/</loc>
+    <lastmod>2019-12-22T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nshakya.me/tags/</loc>
+    <lastmod>2019-12-22T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nshakya.me/categories/tech/</loc>
+    <lastmod>2019-12-22T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nshakya.me/tags/test/</loc>
+    <lastmod>2019-12-22T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nshakya.me/2019/12/22/title/</loc>
+    <lastmod>2019-12-22T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nshakya.me/2019/12/22/hello-world/</loc>
+    <lastmod>2019-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nshakya.me/search/placeholder/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nshakya.me/top/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nshakya.me/top/resume/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nshakya.me/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nshakya.me/top/</loc>
+  </url>
+  
+</urlset>
